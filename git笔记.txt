@@ -1,0 +1,50 @@
+Ctrl+N    新建文本文档
+Ctrl+S   保存
+
+gidhub.com
+全球最大的软件资源开发共享平台/社区
+
+girhub
+用户名：c15283010019p
+  密码：
+  邮箱：yingying999zz@sina.com
+
+  闭源/开源
+  版本控制工具     oschina.com/gitlab.com/github.com
+  git
+
+
+  git命令：
+  ssh-keygen -t rsa -C '邮箱'
+  //授权本地电脑 生成秘钥
+  git  config --global  user.name 'c15283010019p'
+  //配置git本地用户名
+  git config user.name  
+  //查看当前已配置的本地用户名
+  git config --global user.email '邮箱'
+  //配置git邮箱
+  git config user.email
+  //查看当前已配置的邮箱
+  ssh -T git@github.com
+  //授权验证
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
